@@ -39,7 +39,7 @@ val licenseText = "#############################################################
         "################################################################################"
 
 plugins {
-    id("com.pswidersk.terraform-plugin") version "1.0.0"
+    id("com.pswidersk.terraform-plugin") version "1.1.0"
     id("org.unbroken-dome.helm") version "1.7.0"
     id("org.unbroken-dome.helm-releases") version "1.7.0"
 }
