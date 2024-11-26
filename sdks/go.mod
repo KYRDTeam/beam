@@ -36,7 +36,7 @@ require (
 	github.com/aws/smithy-go v1.13.4
 	github.com/docker/go-connections v0.4.0
 	github.com/dustin/go-humanize v1.0.0
-	github.com/go-sql-driver/mysql v1.6.0
+	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang/protobuf v1.5.2 // TODO(danoliveira): Fully replace this with google.golang.org/protobuf
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
@@ -74,6 +74,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.2.1 // indirect
 	cloud.google.com/go/iam v0.7.0 // indirect
 	cloud.google.com/go/longrunning v0.1.1 // indirect
+	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/Microsoft/hcsshim v0.9.4 // indirect
